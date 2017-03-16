@@ -50,7 +50,7 @@ Download the latest version from github
 
 - Resolving Library Dependency
 
-    $ sudo apt-get install zlib1g-dev libsdl-image1.2-dev libgnutls-dev libvncserver-dev libpci-dev
+    $ sudo apt-get install zlib1g-dev libsdl-image1.2-dev libgnutls-dev libvncserver-dev libpci-dev g++
 
 #### Folder Composition
 
